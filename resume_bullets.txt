@@ -1,0 +1,4 @@
+Netflix Data Analysis | Python, Pandas, Matplotlib, Seaborn
+• Performed exploratory data analysis on Netflix's content catalog to identify patterns in content type, ratings, genres, countries and release trends.
+• Cleaned missing values, converted date fields, engineered year/month features and standardized movie/TV duration fields.
+• Created data visualizations and translated findings into concise, business-focused insights.
